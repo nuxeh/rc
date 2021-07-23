@@ -22,7 +22,7 @@ futures = "0.3.5"
 rand_core = "0.5.1"
 
 [dependencies.tokio]
-version = "0.2.21"
+version = "1.9.0"
 features = ["macros", "net", "sync", "stream"]
 
 [dependencies.tokio-util]
